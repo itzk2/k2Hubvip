@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/itzk2/k2modHUB/main/k2modhub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itzk2/k2Hubvip/refs/heads/main/k2modhub.lua"))()
 
 -- k2modhub ULTRA VIP FULL
 
